@@ -58,7 +58,7 @@ void Level1State::Draw(sf::RenderWindow * window) {
 }
 
 void Level1State::Init() {
-	//erease enemies from previous tries
+	//erase enemies from previous tries
 	for (int i = 0; i < enemies.size(); i++) {
 		enemies.erase(enemies.begin() + i);
 		i--;

@@ -1,1 +1,7 @@
-﻿  Test-MapObject.vcxproj -> c:\Users\guill\source\repos\l00l\Debug\Test-MapObject.exe
+﻿  test.cpp
+c:\users\guill\source\repos\l00l\mabibliotheque\mapobject.h(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guill\source\repos\l00l\mabibliotheque\mapobject.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guill\source\repos\l00l\test-mapobject\test.cpp(16): warning C4700: uninitialized local variable 'player' used
+c:\users\guill\source\repos\l00l\test-mapobject\test.cpp(42): warning C4700: uninitialized local variable 'player' used
+MaBibliotheque.lib(TileMap.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Test-MapObject.vcxproj -> C:\Users\guill\source\repos\l00l\Debug\Test-MapObject.exe

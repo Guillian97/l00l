@@ -1,6 +1,7 @@
-﻿  monMain.cpp
+﻿  Level1State.cpp
 c:\users\guill\source\repos\l00l\mabibliotheque\mapobject.h(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
 c:\users\guill\source\repos\l00l\mabibliotheque\mapobject.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\guill\source\repos\l00l\mabibliotheque\monmain.cpp(76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-c:\users\guill\source\repos\l00l\mabibliotheque\monmain.cpp(93): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
-  MaBibliotheque.vcxproj -> c:\Users\guill\source\repos\l00l\Debug\MaBibliotheque.lib
+c:\users\guill\source\repos\l00l\mabibliotheque\level1state.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\guill\source\repos\l00l\mabibliotheque\level1state.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\guill\source\repos\l00l\mabibliotheque\level1state.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  MaBibliotheque.vcxproj -> C:\Users\guill\source\repos\l00l\Debug\MaBibliotheque.lib
