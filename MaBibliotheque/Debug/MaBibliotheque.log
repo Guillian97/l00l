@@ -1,0 +1,6 @@
+﻿  monMain.cpp
+c:\users\guill\source\repos\l00l\mabibliotheque\mapobject.h(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guill\source\repos\l00l\mabibliotheque\mapobject.h(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\guill\source\repos\l00l\mabibliotheque\monmain.cpp(76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\guill\source\repos\l00l\mabibliotheque\monmain.cpp(93): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+  MaBibliotheque.vcxproj -> c:\Users\guill\source\repos\l00l\Debug\MaBibliotheque.lib
